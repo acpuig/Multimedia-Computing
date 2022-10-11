@@ -1,0 +1,77 @@
+<TAG>ID 20</TAG>
+<LUMINANCE>1737.046997070</LUMINANCE>
+<COLOR>
+    <RED>1859</RED>
+    <GREEN>1722</GREEN>
+    <BLUE>1546</BLUE>
+</COLOR>
+<NFACES>0</NFACES>
+<EDGE_DIST>
+    <LAPLACIAN>
+        <MEAN >0.000000000</MEAN >
+        <STD >0.000000000</STD >
+    </LAPLACIAN>
+    <ROBERTS>
+        <MEAN >0.000000000</MEAN >
+        <STD >0.000000000</STD >
+    </ROBERTS>
+    <SOBEL>
+        <MEAN >0.000000000</MEAN >
+        <STD >0.000000000</STD >
+    </SOBEL>
+</EDGE_DIST>
+<EDGE_DIST>
+    <LAPLACIAN></LAPLACIAN>
+</EDGE_DIST>
+<EDGE_DIST>
+    <ROBERTS></ROBERTS>
+</EDGE_DIST>
+<EDGE_DIST>
+    <SOBEL></SOBEL>
+</EDGE_DIST>
+<TEX_CHAR>
+    <G1>
+        <MEAN >0.000000000</MEAN >
+        <STD >0.000000000</STD >
+    </G1>
+    <G2>
+        <MEAN >0.000000000</MEAN >
+        <STD >0.000000000</STD >
+    </G2>
+    <G3>
+        <MEAN >0.000000000</MEAN >
+        <STD >0.000000000</STD >
+    </G3>
+    <G4>
+        <MEAN >0.000000000</MEAN >
+        <STD >0.000000000</STD >
+    </G4>
+    <G5>
+        <MEAN >0.000000000</MEAN >
+        <STD >0.000000000</STD >
+    </G5>
+    <G6>
+        <MEAN >0.000000000</MEAN >
+        <STD >0.000000000</STD >
+    </G6>
+</TEX_CHAR>
+<TEX_CHAR>
+    <G1></G1>
+</TEX_CHAR>
+<TEX_CHAR>
+    <G2></G2>
+</TEX_CHAR>
+<TEX_CHAR>
+    <G3></G3>
+</TEX_CHAR>
+<TEX_CHAR>
+    <G4></G4>
+</TEX_CHAR>
+<TEX_CHAR>
+    <G5></G5>
+</TEX_CHAR>
+<TEX_CHAR>
+    <G6></G6>
+</TEX_CHAR>
+<NTIMES>423</NTIMES>
+<END></END>
